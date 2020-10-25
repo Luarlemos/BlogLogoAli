@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95e0c6bb3751a2e84dd4d69aa7ccc669",
+    "revision": "5e98b521f9e5464425e7868aa8e55a50",
     "url": "/BlogLogoAli/index.html"
   },
   {
-    "revision": "9d385ea84d288c293e60",
-    "url": "/BlogLogoAli/static/css/main.28fcb429.chunk.css"
+    "revision": "be8d9d0ca2521c4fd244",
+    "url": "/BlogLogoAli/static/css/main.c75bd65f.chunk.css"
   },
   {
     "revision": "920196cd77b51c133e8a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BlogLogoAli/static/js/2.af786f04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d385ea84d288c293e60",
+    "revision": "be8d9d0ca2521c4fd244",
     "url": "/BlogLogoAli/static/js/main.ac9c8d99.chunk.js"
   },
   {
