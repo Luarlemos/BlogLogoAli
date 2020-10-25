@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BlogLogoAli/static/css/main.28fcb429.chunk.css",
-    "main.js": "/BlogLogoAli/static/js/main.d71e78c2.chunk.js",
-    "main.js.map": "/BlogLogoAli/static/js/main.d71e78c2.chunk.js.map",
+    "main.js": "/BlogLogoAli/static/js/main.ac9c8d99.chunk.js",
+    "main.js.map": "/BlogLogoAli/static/js/main.ac9c8d99.chunk.js.map",
     "runtime-main.js": "/BlogLogoAli/static/js/runtime-main.eac8df93.js",
     "runtime-main.js.map": "/BlogLogoAli/static/js/runtime-main.eac8df93.js.map",
     "static/js/2.af786f04.chunk.js": "/BlogLogoAli/static/js/2.af786f04.chunk.js",
     "static/js/2.af786f04.chunk.js.map": "/BlogLogoAli/static/js/2.af786f04.chunk.js.map",
     "index.html": "/BlogLogoAli/index.html",
-    "precache-manifest.ad885c0f575474303ae115e1a62ed7ff.js": "/BlogLogoAli/precache-manifest.ad885c0f575474303ae115e1a62ed7ff.js",
+    "precache-manifest.1a00cdf800e911099f80f8e47fe50c54.js": "/BlogLogoAli/precache-manifest.1a00cdf800e911099f80f8e47fe50c54.js",
     "service-worker.js": "/BlogLogoAli/service-worker.js",
     "static/css/main.28fcb429.chunk.css.map": "/BlogLogoAli/static/css/main.28fcb429.chunk.css.map",
     "static/js/2.af786f04.chunk.js.LICENSE.txt": "/BlogLogoAli/static/js/2.af786f04.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.eac8df93.js",
     "static/js/2.af786f04.chunk.js",
     "static/css/main.28fcb429.chunk.css",
-    "static/js/main.d71e78c2.chunk.js"
+    "static/js/main.ac9c8d99.chunk.js"
   ]
 }
