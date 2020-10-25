@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e98b521f9e5464425e7868aa8e55a50",
+    "revision": "e8288040f6910b3df6e6b7c7f5b33fc5",
     "url": "/BlogLogoAli/index.html"
   },
   {
-    "revision": "be8d9d0ca2521c4fd244",
-    "url": "/BlogLogoAli/static/css/main.c75bd65f.chunk.css"
+    "revision": "cf42e7e598ae6bd988cf",
+    "url": "/BlogLogoAli/static/css/main.dec32a65.chunk.css"
   },
   {
-    "revision": "920196cd77b51c133e8a",
-    "url": "/BlogLogoAli/static/js/2.af786f04.chunk.js"
+    "revision": "25350a6f723b5140f61d",
+    "url": "/BlogLogoAli/static/js/2.ab85238b.chunk.js"
   },
   {
     "revision": "3c73c585782ac05880c0f89bcfdbba5a",
-    "url": "/BlogLogoAli/static/js/2.af786f04.chunk.js.LICENSE.txt"
+    "url": "/BlogLogoAli/static/js/2.ab85238b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be8d9d0ca2521c4fd244",
-    "url": "/BlogLogoAli/static/js/main.ac9c8d99.chunk.js"
+    "revision": "cf42e7e598ae6bd988cf",
+    "url": "/BlogLogoAli/static/js/main.198807bb.chunk.js"
   },
   {
     "revision": "ca71ee5f911a6d0572d0",
